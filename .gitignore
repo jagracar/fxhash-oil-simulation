@@ -1,4 +1,1 @@
-node_modules/
-dist/
-dist-zipped/
-yarn.lock
+node_modules
